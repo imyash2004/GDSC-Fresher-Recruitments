@@ -1,19 +1,25 @@
 # GDSC-Fresher-Recruitments
 
-Steps to Follow
+Refer to the following steps to contribute to this repository
 
-- Fork the project:
+## Fork the project:
  Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
+![image](https://user-images.githubusercontent.com/67182544/211362957-0c005848-c944-4743-bfcc-f9d1f275059e.png)
 
-- Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
+## Clone the project
+Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
-- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
+![image](https://user-images.githubusercontent.com/67182544/211363625-eb119698-4a51-4604-8ec6-ea78879d353b.png)
+
+
+Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 ```bash
   git clone https://github.com/YOUR_GITHUB_USERNAME/GDSC-Fresher-Recruitments.git
 ```
+## Create a branch
 
-- Switch to the cloned folder. You can paste this command into the same terminal window.
+Switch to the cloned folder. You can paste this command into the same terminal window.
 
 ```bash
   cd GDSC-Fresher-Recruitments
@@ -24,6 +30,9 @@ Steps to Follow
 ```bash
   git checkout -b <name-of-new-branch>
 ```
+*<name-of-new-branch>* should take the name of your branch name,  it should be called as `hello-world` or something like that.
+
+## Addition to readme
 
 - Open the `README.md` file
 
@@ -41,13 +50,13 @@ or
   git add .
 ```
 
-- Commit the changes.
+## Commit the changes.
 
 ```bash
   git commit -m "Add <your-github-username>"
 ```
 
-- Check the status of your repository.
+## Status Check
 
 ```bash
   git status
@@ -72,6 +81,6 @@ or
   git branch -M main
   git push -u origin main
 ```
-Done!
+*Done!*
 
 Happy Contributing!🥳
