@@ -1,6 +1,11 @@
 # GDSC-Fresher-Recruitments
 
-Refer to the following steps to contribute to this repository
+Refer to the following steps to contribute to this repository,
+
+You are expected to add your name to the ![Contributors](.#Contributors)
+
+### The deadline for submissions is Thursday, Jan 12, 2023
+
 
 ## Fork the project:
  Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
@@ -84,3 +89,5 @@ or
 *Done!*
 
 Happy Contributing!🥳
+
+## Contributors
