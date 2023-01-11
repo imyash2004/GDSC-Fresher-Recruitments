@@ -91,3 +91,4 @@ or
 Happy Contributing!🥳
 
 ## Contributors
+Yash Agarwal
